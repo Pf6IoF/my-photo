@@ -5,6 +5,6 @@
   <title>画像</title>
 </head>
 <body>
-  <img src="example.jpeg" style="max-width:100%;">
+  <img src="recipe.jpeg" style="max-width:100%;">
 </body>
 </html>
